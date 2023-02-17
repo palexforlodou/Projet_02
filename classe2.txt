@@ -6,3 +6,8 @@ fct 1 {
 inst 1 ;
 inst2 ;
 }
+fct 2 {
+inst 1 ;
+inst2 ;
+}
+}
