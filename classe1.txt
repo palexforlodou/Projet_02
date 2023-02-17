@@ -1,17 +1,24 @@
 class class1 {
 /**
-*comment
+*comment release2
 */
 public class1() {}
-
+cvcvcvcvcvcv
+cvcvcvcvcv
 // suppr f1 
 
+fct 11 {
+inst 1 ; //test
+inst2 ;
+inst3 ;
+inst4 ; // release
 
 fct 2 {
 inst 1 ; //test
 inst2 ;
-// inst3 master ;
-suppr inst4 ; // release /master
+inst3 master ;
+inst4 ; // release /master
+
 }
 
 fct 3 {
@@ -30,7 +37,7 @@ inst4 ; //master
 //sup f5
 
 fff
->>>>>>>>>>>>master
+
 
 gggg
 }
