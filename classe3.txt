@@ -1,6 +1,6 @@
-class class1 {
+class class3 {
 
-public class1() {}
+public class3() {}
 
 fct 1 {
 inst 1 ;
@@ -14,12 +14,6 @@ inst3 ;
 }
 
 fct 3 {
-inst 1 ;
-inst2 ;
-inst3 ;
-}
-
-fct 4 {
 inst 1 ;
 inst2 ;
 inst3 ;

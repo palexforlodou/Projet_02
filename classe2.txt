@@ -10,4 +10,8 @@ fct 2 {
 inst 1 ;
 inst2 ;
 }
+fct 3 {
+inst 1 ;
+inst2 ;
+}
 }
