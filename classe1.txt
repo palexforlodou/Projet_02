@@ -24,6 +24,7 @@ fct 4 {
 inst 1 ;
 inst2 ;
 inst3 ;
+inst4 ; //master
 }
 
 //sup f5
