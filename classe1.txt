@@ -1,0 +1,15 @@
+class class1 {
+
+public class1() {}
+
+fct 1 {
+inst 1 ;
+inst2 ;
+}
+
+fct 2 {
+inst 1 ;
+inst2 ;
+inst3 ;
+}
+}
