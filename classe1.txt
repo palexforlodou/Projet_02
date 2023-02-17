@@ -1,6 +1,6 @@
 class class1 {
 /**
-*comment
+*comment release2
 */
 public class1() {}
 
@@ -15,7 +15,7 @@ inst4 ; // release
 fct 2 {
 inst 1 ; //test
 inst2 ;
-inst3 ;
+inst3 ********//release2;
 inst4 ; // release
 }
 
