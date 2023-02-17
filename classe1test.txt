@@ -1,0 +1,38 @@
+class class1test {
+
+@before each()
+
+@aftereach()
+
+fcttest 1 {
+inst 1 ;
+inst2 ;
+inst3 ; // release
+inst4 ; // release
+}
+
+fcttest1 2 {
+inst 1 ;
+inst2 ;
+inst3 ;
+inst4 ; // release
+}
+
+fcttest 3 {
+inst 1 ;
+inst2 ;
+inst3 ;
+}
+
+fcttest 4 {
+inst 1 ;
+inst2 ;
+inst3 ;
+}
+//release
+fcttest 5 {
+inst 1 ;
+inst2 ;
+inst3 ;
+}
+}

@@ -1,0 +1,22 @@
+class class3test {
+
+
+
+fct 1yest {
+inst 1 ;
+inst2 ;
+inst3;//release
+}
+
+fct 2test {
+inst 1 ;
+inst2 ;
+inst3 ;
+}
+
+fct 3test {
+inst 1 ;
+inst2 ;
+inst3 ;
+}
+}

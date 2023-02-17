@@ -1,0 +1,18 @@
+class class2 {
+
+
+
+fct 1test1 {
+inst 1 ;
+inst2 ;
+//*inst3*/; //release
+}
+fct 2test1 {
+inst 1 ;
+inst2 ;
+}
+fct 3test1 {
+inst 1 ;
+inst2 ;
+}
+}
