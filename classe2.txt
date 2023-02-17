@@ -3,7 +3,8 @@ class class2 {
 *comment
 */
 public class2() {}
-
+dgdgdgdg
+dfdgdg
 fct 1 {
 inst 1 ;
 inst2 ;
