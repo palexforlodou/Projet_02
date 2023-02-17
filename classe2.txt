@@ -5,11 +5,11 @@ public class2() {}
 fct 1 {
 inst 1 ;
 inst2 ;
-//*inst3*/; //release
+inst3; //release //test
 }
 fct 2 {
-inst 1 ;
-inst2 ;
+inst 1 ; //test
+inst2 ; //test
 }
 fct 3 {
 inst 1 ;

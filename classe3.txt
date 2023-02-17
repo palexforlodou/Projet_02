@@ -3,9 +3,9 @@ class class3 {
 public class3() {}
 
 fct 1 {
-inst 1 ;
-inst2 ;
-inst3;//release
+inst 1 ; test
+inst2 ; test 
+inst3;//release //test
 }
 
 fct 2 {
