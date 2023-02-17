@@ -4,12 +4,13 @@ class class1test {
 
 @aftereach()
 
-fcttest 1 {
-inst 1 ;
+fct 11 {
+inst 1 ; //test
 inst2 ;
-inst3 ; // release
+inst3 ;
 inst4 ; // release
-}
+
+// suppr f1test1;
 
 fcttest1 2 {
 inst 1 ;

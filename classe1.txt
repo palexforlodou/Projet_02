@@ -3,7 +3,8 @@ class class1 {
 *comment release2
 */
 public class1() {}
-
+cvcvcvcvcvcv
+cvcvcvcvcv
 // suppr f1 
 
 fct 11 {
@@ -15,7 +16,11 @@ inst4 ; // release
 fct 2 {
 inst 1 ; //test
 inst2 ;
+<<<<<<< HEAD
 inst3 ********//release2;
+=======
+// suppr inst3 ;
+>>>>>>> test2
 inst4 ; // release
 }
 
