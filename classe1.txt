@@ -6,7 +6,7 @@ public class1() {}
 cvcvcvcvcvcv
 cvcvcvcvcv
 // suppr f1 
-
+ghghhghhgh
 fct 11 {
 inst 1 ; //test
 inst2 ;
