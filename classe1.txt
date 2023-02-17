@@ -1,13 +1,11 @@
 class class1 {
-
+/**
+*comment
+*/
 public class1() {}
 
-fct 1 {
-inst 1 ; //test
-inst2 ; //test
-inst3 ; // release
-inst4 ; // release //test
-}
+// suppr f1 
+
 
 fct 2 {
 inst 1 ; //test
@@ -27,10 +25,11 @@ inst 1 ;
 inst2 ;
 inst3 ;
 }
-//release
-fct 5 {
-inst 1 ;
-inst2 ;
-inst3 ;
-}
+
+//sup f5
+
+fff
+>>>>>>>>>>>>master
+
+gggg
 }
